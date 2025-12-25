@@ -1,1 +1,1 @@
-# My Python code 
+print("Hello GitHub")
